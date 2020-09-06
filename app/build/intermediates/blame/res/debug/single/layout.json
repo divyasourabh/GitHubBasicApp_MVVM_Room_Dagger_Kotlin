@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nykaa/AndroidStudioProjects/BasicGitHubApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_github_repo_detail.xml",
+        "source": "/home/nykaa/AndroidStudioProjects/BasicGitHubApp/app/src/main/res/layout/fragment_github_repo_detail.xml"
+    },
+    {
+        "merged": "/home/nykaa/AndroidStudioProjects/BasicGitHubApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/github_repo_list_item.xml",
+        "source": "/home/nykaa/AndroidStudioProjects/BasicGitHubApp/app/src/main/res/layout/github_repo_list_item.xml"
+    },
+    {
+        "merged": "/home/nykaa/AndroidStudioProjects/BasicGitHubApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_github_repo_list.xml",
+        "source": "/home/nykaa/AndroidStudioProjects/BasicGitHubApp/app/src/main/res/layout/fragment_github_repo_list.xml"
+    }
+]
